@@ -1,1 +1,1 @@
-### Chat Module for Core
+Chat Module for Core
