@@ -1,1 +1,1 @@
-# CoreChat
+### Chat Module for Core
