@@ -26,5 +26,5 @@ def getGitHash() {
 }
 
 blossom {
-    replaceToken '@project.version@', project.version + getGitHash(), 'src/main/java/me/creepsterlgc/core/Core.java'
+    replaceToken '@project.version@', project.version + getGitHash(), 'src/main/java/me/creepsterlgc/core/CoreChat.java'
 } 
