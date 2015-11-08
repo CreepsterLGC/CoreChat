@@ -1,11 +1,12 @@
-package me.creepsterlgc.corechat.files;
+package main.java.me.creepsterlgc.corechat.files;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.Map.Entry;
 
-import me.creepsterlgc.corechat.customized.Channel;
-import me.creepsterlgc.corechat.customized.Channels;
+import main.java.me.creepsterlgc.corechat.customized.Channel;
+import main.java.me.creepsterlgc.corechat.customized.Channels;
+
 import ninja.leaping.configurate.ConfigurationNode;
 import ninja.leaping.configurate.ConfigurationOptions;
 import ninja.leaping.configurate.hocon.HoconConfigurationLoader;

@@ -1,9 +1,9 @@
-package me.creepsterlgc.corechat.commands;
+package main.java.me.creepsterlgc.corechat.commands;
 
-import me.creepsterlgc.core.utils.PermissionsUtils;
-import me.creepsterlgc.core.utils.TextUtils;
-import me.creepsterlgc.corechat.customized.Channel;
-import me.creepsterlgc.corechat.customized.Channels;
+import main.java.me.creepsterlgc.core.utils.PermissionsUtils;
+import main.java.me.creepsterlgc.core.utils.TextUtils;
+import main.java.me.creepsterlgc.corechat.customized.Channel;
+import main.java.me.creepsterlgc.corechat.customized.Channels;
 
 import org.spongepowered.api.text.Texts;
 import org.spongepowered.api.text.format.TextColors;

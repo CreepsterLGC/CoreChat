@@ -1,14 +1,14 @@
-package me.creepsterlgc.corechat;
+package main.java.me.creepsterlgc.corechat;
 
 import java.io.File;
 import java.util.logging.Logger;
 
-import me.creepsterlgc.core.files.FileCommands;
-import me.creepsterlgc.corechat.commands.CommandChannel;
-import me.creepsterlgc.corechat.commands.CommandNick;
-import me.creepsterlgc.corechat.commands.CommandRealname;
-import me.creepsterlgc.corechat.events.EventPlayerChat;
-import me.creepsterlgc.corechat.files.FileChat;
+import main.java.me.creepsterlgc.core.files.FileCommands;
+import main.java.me.creepsterlgc.corechat.commands.CommandChannel;
+import main.java.me.creepsterlgc.corechat.commands.CommandNick;
+import main.java.me.creepsterlgc.corechat.commands.CommandRealname;
+import main.java.me.creepsterlgc.corechat.events.EventPlayerChat;
+import main.java.me.creepsterlgc.corechat.files.FileChat;
 
 import org.spongepowered.api.Game;
 import org.spongepowered.api.event.Listener;

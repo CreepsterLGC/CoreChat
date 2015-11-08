@@ -1,4 +1,4 @@
-package me.creepsterlgc.corechat.customized;
+package main.java.me.creepsterlgc.corechat.customized;
 
 public class Channel {
 

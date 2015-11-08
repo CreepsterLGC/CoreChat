@@ -1,4 +1,4 @@
-package me.creepsterlgc.corechat.commands;
+package main.java.me.creepsterlgc.corechat.commands;
 
 import java.util.ArrayList;
 import java.util.List;

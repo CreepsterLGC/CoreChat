@@ -1,14 +1,14 @@
-package me.creepsterlgc.corechat.commands;
+package main.java.me.creepsterlgc.corechat.commands;
 
-import me.creepsterlgc.core.Controller;
-import me.creepsterlgc.core.customized.CoreDatabase;
-import me.creepsterlgc.core.customized.CorePlayer;
-import me.creepsterlgc.core.utils.CommandUtils;
-import me.creepsterlgc.core.utils.PermissionsUtils;
-import me.creepsterlgc.core.utils.TextUtils;
-import me.creepsterlgc.corechat.customized.Channel;
-import me.creepsterlgc.corechat.customized.Channels;
-import me.creepsterlgc.corechat.files.FileChat;
+import main.java.me.creepsterlgc.core.Controller;
+import main.java.me.creepsterlgc.core.customized.CoreDatabase;
+import main.java.me.creepsterlgc.core.customized.CorePlayer;
+import main.java.me.creepsterlgc.core.utils.CommandUtils;
+import main.java.me.creepsterlgc.core.utils.PermissionsUtils;
+import main.java.me.creepsterlgc.core.utils.TextUtils;
+import main.java.me.creepsterlgc.corechat.customized.Channel;
+import main.java.me.creepsterlgc.corechat.customized.Channels;
+import main.java.me.creepsterlgc.corechat.files.FileChat;
 
 import org.spongepowered.api.entity.living.player.Player;
 import org.spongepowered.api.text.Text;
