@@ -43,9 +43,9 @@ public class CoreChat {
     	game.getEventManager().registerListeners(this, this);
     	game.getEventManager().registerListeners(this, new EventPlayerChat());
     	
-    	if(FileCommands.CHANNEL()) game.getCommandDispatcher().register(this, new CommandChannel(), "channel", "ch", "c");
-    	if(FileCommands.NICK()) game.getCommandDispatcher().register(this, new CommandNick(), "nick");
-    	if(FileCommands.REALNAME()) game.getCommandDispatcher().register(this, new CommandRealname(), "realname");
+    	if(FileCommands.CHANNEL()) game.getCommandManager().register(this, new CommandChannel(), "channel", "ch", "c");
+    	if(FileCommands.NICK()) game.getCommandManager().register(this, new CommandNick(), "nick");
+    	if(FileCommands.REALNAME()) game.getCommandManager().register(this, new CommandRealname(), "realname");
     	
     }
 	
